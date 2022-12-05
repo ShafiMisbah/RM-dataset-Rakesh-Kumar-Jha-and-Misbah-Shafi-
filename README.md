@@ -25,6 +25,8 @@ Secrecy capacity: It is an important concern in the field of security. It estima
 
 
 **Trust rank model estimation: **
+
+
 The dataset is required to be prepared for the analysis, for that data preprocessing is performed.
 Data preprocessing:It is defined as a technique of preparing the data that transforms the raw, disparate, and intricate data into organized, consistent and clean data.
 Then the whole RM dataset is divided into testing dataset and training dataset.
